@@ -104,12 +104,18 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 ![Dashboard Screenshot](assets/Screenshot%202026-01-04%20233309.png)
  
 
+
 ---
 
-## 🏕️ Relief-Camp Simulation
-work in progress
+## 3. 🏕️ Relief-Camp Simulation
+🔗 **Source Code:** [GitHub Repository](https://github.com/bhandari-sachin/relief-camp)
 
-## 💓 Heartbeat Analyzer
-work in progress
+---
+
+## 4. 💓 Heartbeat Analyzer
+🔗 **Source Code:** [Gitlab Repository](https://gitlab.metropolia.fi/sachinbh/h2-project)  
+
+*Heartbeat Analyzer is a simple, user-friendly device designed to monitor heart rate and heart rate variability in real-time. Using a Raspberry Pi Pico W, Crowtail Pulse Sensor, and SSD1306 OLED display, it provides instant feedback on your heart’s activity. The project is programmed in MicroPython, making it accessible and easy to modify for personal or educational use.*
+
 
 [⬆ Back to Top](#-sentilytics--emotional-intelligence--productivity-insights)
