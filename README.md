@@ -12,8 +12,9 @@ Each project has a summary, tech stack, screenshots, and insights into challenge
 
 ## 📊 Sentilytics – Emotional Intelligence & Productivity Insights
 
-**Tech Stack:** React, Node.js, Express, Gemini API (LLM), MongoDb, Redis  
-**Live App:** [Try it here](https://sentilyticsv0.netlify.app/)  
+**Tech Stack:** React, Node.js, Express, Gemini API (LLM), MongoDB, Redis  
+**Live App:** <a href="https://sentilyticsv0.netlify.app/" target="_blank" rel="noopener noreferrer">Try it here</a>
+ 
 
 **Test Credentials:**  
 
@@ -100,4 +101,4 @@ work in progress
 ## 💓 Heartbeat Analyzer
 work in progress
 
-[⬆ Back to Top](#-sentilytics-–-emotional-intelligence--productivity-insights)
+[⬆ Back to Top](#-sentilytics--emotional-intelligence--productivity-insights)
