@@ -1,6 +1,6 @@
 # projects-portfolio
 Welcome! This respository showcases private or public projects I've worked on.
-Each project has a summary, tech stack, screenshots, and insights into challenges and solutions.
+<!--- Each project has a summary, tech stack, screenshots, and insights into challenges and solutions. -->
 
 ## Table of Contents
 1. [📊 Sentilytics – Emotional Intelligence & Productivity Insights](#-sentilytics--emotional-intelligence--productivity-insights)
@@ -10,7 +10,7 @@ Each project has a summary, tech stack, screenshots, and insights into challenge
 
 ---
 
-## 📊 Sentilytics – Emotional Intelligence & Productivity Insights
+## 1. 📊 Sentilytics – Emotional Intelligence & Productivity Insights
 
 **Tech Stack:** React, Node.js, Express, Gemini API (LLM), MongoDB, Redis  
 **Live App:** <a href="https://sentilyticsv0.netlify.app/" target="_blank" rel="noopener noreferrer">Try it here</a>
@@ -57,7 +57,6 @@ Users include students, professionals, creators, and researchers who want to und
 Users can input:  
 - Journal entries  
 - Emotional reflections  
-- Productivity logs  
 - Any text-based data  
 
 The LLM analyzes this input to generate personalized and actionable feedback.  
@@ -73,8 +72,9 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 ---
 
 ### 📸 Screenshots / Demo
-![Dashboard Screenshot](images/sentilytics-dashboard.png)  
-*Example dashboard showing emotional and productivity insights.*
+![Dashboard Screenshot](assets/Screenshot%202026-01-04%20213951.png)
+ 
+
 
 ---
 
@@ -92,8 +92,19 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 - Future mobile integration for daily habit tracking
 
 ---
-## 🎬 Movie Search
-work in progess
+## 2. 🎬 Movie App
+
+🔗 **Live Demo:** [Try it here](https://splendorous-hamster-44907e.netlify.app/)  
+
+🔗 **Source Code:** [GitHub Repository](https://github.com/bhandari-sachin/group-activities/tree/main/week7/movie-app)
+
+*An interactive movie search app built with React, fetching data from an API and displaying movie details dynamically.*
+
+### 📸 Screenshots / Demo
+![Dashboard Screenshot](assets/Screenshot%202026-01-04%20233309.png)
+ 
+
+
 
 ## 🏕️ Relief-Camp Simulation
 work in progress
