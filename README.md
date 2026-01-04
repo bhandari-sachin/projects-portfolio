@@ -98,13 +98,13 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 
 🔗 **Source Code:** [GitHub Repository](https://github.com/bhandari-sachin/group-activities/tree/main/week7/movie-app)
 
-*An interactive movie search app built with React, fetching data from an API and displaying movie details dynamically.*
+*A movie search application that tracks trending searches using Appwrite TablesDB, fetches movie data from an external API, and displays results in a Tailwind CSS-styled UI. The app uses SQL-backed tables in Appwrite and implements debounced search to optimize API calls.*
 
 ### 📸 Screenshots / Demo
 ![Dashboard Screenshot](assets/Screenshot%202026-01-04%20233309.png)
  
 
-
+---
 
 ## 🏕️ Relief-Camp Simulation
 work in progress
