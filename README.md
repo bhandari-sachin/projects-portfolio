@@ -12,8 +12,19 @@ Each project has a summary, tech stack, screenshots, and insights into challenge
 
 ## 📊 Sentilytics – Emotional Intelligence & Productivity Insights
 
-**Tech Stack:** React, Node.js, Python, OpenAI API (LLM), PostgreSQL  
-**Duration:** Jan 2025 – Mar 2025
+**Tech Stack:** React, Node.js, Express, Gemini API (LLM), MongoDb, Redis  
+**Live App:** [Try it here](https://sentilyticsv0.netlify.app/)  
+
+**Test Credentials:**  
+
+ **Email:**
+````
+test_user@test.com  
+````
+ **Password:**
+````
+Test@123
+````
 
 ---
 
@@ -27,8 +38,7 @@ The website uses a **large language model (LLM)** to process user inputs such as
 ### 🎯 Target Audience
 Sentilytics is ideal for anyone interested in:  
 - Emotional intelligence and self-awareness  
-- Productivity improvement and habit tracking  
-- AI-assisted personal development  
+- Productivity improvement 
 
 Users include students, professionals, creators, and researchers who want to understand emotional patterns and optimize workflows.  
 
@@ -39,7 +49,6 @@ Users include students, professionals, creators, and researchers who want to und
 - **Productivity Insights:** See how emotions correlate with focus and motivation.  
 - **Personalized Tracking:** Account creation unlocks saved insights and advanced tracking.  
 - **Instant Feedback:** Receive AI-generated insights in seconds.  
-- **No Sign-Up Required:** Explore basic features without creating an account.  
 
 ---
 
@@ -71,15 +80,24 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 ### 💡 Key Learnings / Challenges
 - Integrating real-time AI responses in a smooth interface  
 - Structuring emotional and productivity data for meaningful analysis  
-- Balancing AI insights with user privacy  
+- Balancing AI insights with user privacy
+- User Authentication
 
 ---
 
 ### 🚀 Outcome / Next Steps
-- Fully functional web app with real-time AI feedback  
+- Fully functional web app with real-time AI feedback
 - Plan to expand with **trend analysis, reminders, and deeper behavioral insights**  
-- Future mobile integration for daily habit tracking  
+- Future mobile integration for daily habit tracking
 
 ---
+## 🎬 Movie Search
+work in progess
+
+## 🏕️ Relief-Camp Simulation
+work in progress
+
+## 💓 Heartbeat Analyzer
+work in progress
 
 [⬆ Back to Top](#📊-sentilytics-–-emotional-intelligence--productivity-insights)
