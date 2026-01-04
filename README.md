@@ -100,4 +100,4 @@ work in progress
 ## 💓 Heartbeat Analyzer
 work in progress
 
-[⬆ Back to Top](#📊-sentilytics-–-emotional-intelligence--productivity-insights)
+[⬆ Back to Top](#-sentilytics-–-emotional-intelligence--productivity-insights)
