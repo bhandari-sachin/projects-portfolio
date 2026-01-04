@@ -5,17 +5,17 @@ Welcome! This repository showcases private or public projects I've worked on.
 
 ---
 
+
 ## Table of Contents
-1. [📊 Sentilytics – Emotional Intelligence & Productivity Insights](#1-📊-sentilytics--emotional-intelligence--productivity-insights)
-2. [🎬 Movie App](#2-🎬-movie-app)
-3. [💓 Heartbeat Analyzer](#3-💓-heartbeat-analyzer)
-4. [🏕️ Relief-Camp Simulation](#4-🏕️-relief-camp-simulation)
 
-
+1. [Sentilytics – Emotional Intelligence & Productivity Insights](#sentilytics--emotional-intelligence--productivity-insights)
+2. [Movie App](#movie-app)
+3. [Heartbeat Analyzer](#heartbeat-analyzer)
+4. [Relief-Camp Simulation](#relief-camp-simulation)
 
 ---
 
-## 1. 📊 Sentilytics – Emotional Intelligence & Productivity Insights
+## Sentilytics – Emotional Intelligence & Productivity Insights
 
 **Tech Stack:** React, Node.js, Express, Gemini API (LLM), MongoDB, Redis  
 **Live App:** <a href="https://sentilyticsv0.netlify.app/" target="_blank" rel="noopener noreferrer">Try it here</a>
@@ -97,7 +97,7 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 - Future mobile integration for daily habit tracking
 
 ---
-## 2. 🎬 Movie App
+## Movie App
 
 🔗 **Live Demo:** [Try it here](https://splendorous-hamster-44907e.netlify.app/)  
 
@@ -112,7 +112,7 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 
 ---
 
-## 3. 💓 Heartbeat Analyzer
+## Heartbeat Analyzer
 🔗 **Source Code:** [Gitlab Repository](https://gitlab.metropolia.fi/sachinbh/h2-project)  
 
 *Heartbeat Analyzer is a simple, user-friendly device designed to monitor heart rate and heart rate variability in real-time. Using a Raspberry Pi Pico W, Crowtail Pulse Sensor, and SSD1306 OLED display, it provides instant feedback on your heart’s activity. The project is programmed in MicroPython, making it accessible and easy to modify for personal or educational use.*
@@ -121,7 +121,7 @@ The LLM analyzes this input to generate personalized and actionable feedback.
 ![](assets/Image%202026-01-05%20at%2000.27.23.jpeg)
 
  ----
- ## 4. 🏕️ Relief-Camp Simulation
+ ## Relief-Camp Simulation
 🔗 **Source Code:** [GitHub Repository](https://github.com/bhandari-sachin/relief-camp)
 
 ---
