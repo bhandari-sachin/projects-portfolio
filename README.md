@@ -6,11 +6,11 @@ Welcome! This repository showcases private or public projects I've worked on.
 ---
 
 ## Table of Contents
+1. [📊 Sentilytics – Emotional Intelligence & Productivity Insights](#sentilytics--emotional-intelligence--productivity-insights)
+2. [🎬 Movie App](#movie-app)
+3. [💓 Heartbeat Analyzer](#heartbeat-analyzer)
+4. [🏕️ Relief-Camp Simulation](#relief-camp-simulation)
 
-1. [📊 Sentilytics – Emotional Intelligence & Productivity Insights](#1-📊-sentilytics--emotional-intelligence--productivity-insights)
-2. [🎬 Movie App](#2-🎬-movie-app)
-3. [💓 Heartbeat Analyzer](#3-💓-heartbeat-analyzer)
-4. [🏕️ Relief-Camp Simulation](#4-🏕️-relief-camp-simulation)
 
 ---
 
