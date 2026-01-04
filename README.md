@@ -3,10 +3,12 @@ Welcome! This respository showcases private or public projects I've worked on.
 Each project has a summary, tech stack, screenshots, and insights into challenges and solutions.
 
 ## Table of Contents
-1. [Project Sentilytics](#project-sentilytics)
-2. [Project movie search](#project-movie-search)
-3. [Project Relief-Camp Simulation](#project-relief-camp)
-4. [Project Heartbeat Analyzer](#project-heartbeat-analyzer)
+1. [📊 Sentilytics – Emotional Intelligence & Productivity Insights](#-sentilytics--emotional-intelligence--productivity-insights)
+2. [🎬 Movie Search](#-movie-search)
+3. [🏕️ Relief-Camp Simulation](#-relief-camp-simulation)
+4. [💓 Heartbeat Analyzer](#-heartbeat-analyzer)
+
+---
 
 ## 📊 Sentilytics – Emotional Intelligence & Productivity Insights
 
